@@ -1,5 +1,5 @@
 # Bookshelf_app
-Submision pada kelas  Belajar Membuat Front-End Web untuk Pemula dengan keriteria :  
+Submision Dicoding pada kelas  Belajar Membuat Front-End Web untuk Pemula dengan keriteria :  
 
 * Bookshelf Apps harus mampu menambahkan data buku baru. Data buku yang disimpan merupakan objek JavaScript dengan struktur berikut:
 ```bash
